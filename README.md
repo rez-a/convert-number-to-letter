@@ -12,7 +12,7 @@ input : 987654 => output : نهصد و هشتاد و هفت هزار و ششصد
 
 ### 1.Place all JavaScript files in your desired HTML page
 
-    <script type="midule" defer src="./init.js"></script>
+    <script type="module" defer src="./init.js"></script>
     <script type="module" defer src="./converter.js"></script>
     <script type="module" defer src="./provider.js"></script>
     <script type="module" defer src="./script.js"></script>
